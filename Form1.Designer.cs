@@ -1,6 +1,6 @@
 ﻿namespace TrafficLights
 {
-    partial class Form1
+    partial class TrafficLights
     {
         /// <summary>
         /// Required designer variable.
@@ -64,7 +64,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(276, 568);
+            this.ClientSize = new System.Drawing.Size(276, 562);
             this.Controls.Add(this.GreenLight);
             this.Controls.Add(this.YellowLight);
             this.Controls.Add(this.RedLight);
